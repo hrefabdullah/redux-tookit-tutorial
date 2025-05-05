@@ -1,0 +1,6 @@
+.main{
+    display: flex;
+    gap: 5px;
+    justify-items: center;;
+    font-size: 20px;
+}
